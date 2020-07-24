@@ -10,10 +10,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.4",
-    "mocha": "^2.4.5"
+    "diff": ">=3.5.0",
+    "express": ">=4.13.4",
+    "growl": ">=1.10.0",
+    "minimatch": ">=3.0.2",
+    "minimist": ">=0.2.1",
+    "mocha": "^8.0.1",
+    "superagent": ">=3.7.0"
   },
   "devDependencies": {
-    "supertest": "^1.2.0"
+    "supertest": "^4.0.2"
   }
 }
